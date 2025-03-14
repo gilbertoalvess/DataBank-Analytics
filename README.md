@@ -27,4 +27,3 @@ Desenvolver análises de dados que possam ser aplicadas por bancos e fintechs pa
 
 ---
 
-## 📂 Estrutura do Repositório
